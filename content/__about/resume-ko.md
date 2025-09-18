@@ -238,7 +238,7 @@ GitHub: <https://github.com/xncbf/django-dynamodb-cache>
 GitHub: <https://github.com/xncbf/rcs-pydantic>
 
 
-### Python
+### Python (CPython core)
 
 Github: <https://github.com/python/cpython>
 
@@ -250,7 +250,7 @@ Github: <https://github.com/python/cpython>
 - 이슈: 오류메세지의 가독성이 떨어지는 이슈 [링크](https://github.com/python/cpython/issues/107910)  
   PR: [gh-107910 Update not needing newline error message](https://github.com/python/cpython/pull/107928)
 
-### Django
+### Django (웹 프레임워크)
 
 > Deadline 이 있는 완벽주의자를 위한 웹 프레임워크.
 
